@@ -1,1 +1,1 @@
-# manning-book
+# Elixir in Action exercises.
